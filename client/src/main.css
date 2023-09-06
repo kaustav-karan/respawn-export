@@ -1,0 +1,14 @@
+/* global style */
+html,
+body {
+  height: 100%;
+}
+#root {
+  height: 100%;
+}
+@font-face {
+  font-family: 'Bakbak One';
+  src:
+    local('Lato'),
+    url(./assets/fonts/BakbakOne-Regular.ttf) format('opentype');
+}
